@@ -1,0 +1,705 @@
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:32: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['poutcome_failure'][i]=2
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:36: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['job_admin.'][i]=2
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:58: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['marital_divorced'][i]=3
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:66: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['month_apr'][i]=4
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:86: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['day_of_week_fri'][i]=5
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:52: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['job_admin.'][i]=10
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:56: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['marital_divorced'][i]=2
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:62: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['month_apr'][i]=2
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:84: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['day_of_week_fri'][i]=4
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:48: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['job_admin.'][i]=8
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:72: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['month_apr'][i]=7
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['poutcome_failure'][i]=3
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:54: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['job_admin.'][i]=11
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:70: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['month_apr'][i]=6
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:82: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['day_of_week_fri'][i]=3
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:40: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['job_admin.'][i]=4
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:60: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['contact_cellular'][i]=2
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:42: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['job_admin.'][i]=5
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:74: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['month_apr'][i]=8
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:46: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['job_admin.'][i]=7
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:80: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['day_of_week_fri'][i]=2
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:44: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['job_admin.'][i]=6
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:78: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['month_apr'][i]=10
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:68: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['month_apr'][i]=5
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:50: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['job_admin.'][i]=9
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:76: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['month_apr'][i]=9
+/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:38: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['job_admin.'][i]=3
+using cuda:0 device.
+using cuda:0 device.
+using cuda:0 device.
+Start training
+trainfeatures: torch.Size([32629, 20])
+sum(trainlabels=0) tensor(28661)
+sum(trainlabels=1) tensor(3968)
+testfeatures: torch.Size([8158, 20])
+sum(testfeatures=0) tensor(7532)
+sum(testfeatures=1) tensor(626)
+a 7
+b 12
+len(sampler_train) 7936
+len(sampler_test) 1252
+Epoch 1
+-------------------------------
+loss: 0.697364  [ 1280/ 7936]  Accuracy: 8.3%
+loss: 0.695872  [ 2560/ 7936]  Accuracy: 15.0%
+loss: 0.691421  [ 3840/ 7936]  Accuracy: 21.6%
+loss: 0.687230  [ 5120/ 7936]  Accuracy: 31.8%
+loss: 0.669897  [ 6400/ 7936]  Accuracy: 43.2%
+loss: 0.646972  [ 7680/ 7936]  Accuracy: 55.3%
+Test Error: 
+ Accuracy: 56.5%, Avg loss: 0.668492 
+
+Epoch 2
+-------------------------------
+loss: 0.677382  [ 1280/ 7936]  Accuracy: 9.4%
+loss: 0.658973  [ 2560/ 7936]  Accuracy: 18.9%
+loss: 0.682764  [ 3840/ 7936]  Accuracy: 28.4%
+loss: 0.620729  [ 5120/ 7936]  Accuracy: 38.7%
+loss: 0.546840  [ 6400/ 7936]  Accuracy: 49.9%
+loss: 0.530297  [ 7680/ 7936]  Accuracy: 62.0%
+Test Error: 
+ Accuracy: 56.5%, Avg loss: 0.658741 
+
+Epoch 3
+-------------------------------
+loss: 0.636187  [ 1280/ 7936]  Accuracy: 9.5%
+loss: 0.605305  [ 2560/ 7936]  Accuracy: 21.3%
+loss: 0.624045  [ 3840/ 7936]  Accuracy: 32.9%
+loss: 0.556168  [ 5120/ 7936]  Accuracy: 44.5%
+loss: 0.466003  [ 6400/ 7936]  Accuracy: 56.7%
+loss: 0.474535  [ 7680/ 7936]  Accuracy: 69.6%
+Test Error: 
+ Accuracy: 62.4%, Avg loss: 0.624664 
+
+Epoch 4
+-------------------------------
+loss: 0.568238  [ 1280/ 7936]  Accuracy: 12.0%
+loss: 0.488053  [ 2560/ 7936]  Accuracy: 24.2%
+loss: 0.576753  [ 3840/ 7936]  Accuracy: 36.0%
+loss: 0.528794  [ 5120/ 7936]  Accuracy: 48.3%
+loss: 0.424319  [ 6400/ 7936]  Accuracy: 61.0%
+loss: 0.449201  [ 7680/ 7936]  Accuracy: 74.0%
+Test Error: 
+ Accuracy: 65.7%, Avg loss: 0.627982 
+
+Epoch 5
+-------------------------------
+loss: 0.546625  [ 1280/ 7936]  Accuracy: 12.6%
+loss: 0.441043  [ 2560/ 7936]  Accuracy: 25.0%
+loss: 0.554624  [ 3840/ 7936]  Accuracy: 36.9%
+loss: 0.515154  [ 5120/ 7936]  Accuracy: 49.2%
+loss: 0.417695  [ 6400/ 7936]  Accuracy: 61.9%
+loss: 0.444058  [ 7680/ 7936]  Accuracy: 75.0%
+Test Error: 
+ Accuracy: 65.3%, Avg loss: 0.627855 
+
+Epoch 6
+-------------------------------
+loss: 0.520402  [ 1280/ 7936]  Accuracy: 12.8%
+loss: 0.436298  [ 2560/ 7936]  Accuracy: 25.2%
+loss: 0.549386  [ 3840/ 7936]  Accuracy: 37.2%
+loss: 0.502429  [ 5120/ 7936]  Accuracy: 49.6%
+loss: 0.415600  [ 6400/ 7936]  Accuracy: 62.3%
+loss: 0.441468  [ 7680/ 7936]  Accuracy: 75.5%
+Test Error: 
+ Accuracy: 65.4%, Avg loss: 0.624714 
+
+Epoch 7
+-------------------------------
+loss: 0.513066  [ 1280/ 7936]  Accuracy: 12.9%
+loss: 0.438000  [ 2560/ 7936]  Accuracy: 25.3%
+loss: 0.544942  [ 3840/ 7936]  Accuracy: 37.3%
+loss: 0.501225  [ 5120/ 7936]  Accuracy: 49.8%
+loss: 0.415466  [ 6400/ 7936]  Accuracy: 62.6%
+loss: 0.440326  [ 7680/ 7936]  Accuracy: 75.8%
+Test Error: 
+ Accuracy: 65.7%, Avg loss: 0.621987 
+
+Epoch 8
+-------------------------------
+loss: 0.499949  [ 1280/ 7936]  Accuracy: 13.0%
+loss: 0.432005  [ 2560/ 7936]  Accuracy: 25.4%
+loss: 0.541460  [ 3840/ 7936]  Accuracy: 37.4%
+loss: 0.491400  [ 5120/ 7936]  Accuracy: 49.8%
+loss: 0.413615  [ 6400/ 7936]  Accuracy: 62.6%
+loss: 0.434909  [ 7680/ 7936]  Accuracy: 75.9%
+Test Error: 
+ Accuracy: 65.6%, Avg loss: 0.622535 
+
+Epoch 9
+-------------------------------
+loss: 0.500322  [ 1280/ 7936]  Accuracy: 12.9%
+loss: 0.433952  [ 2560/ 7936]  Accuracy: 25.4%
+loss: 0.535131  [ 3840/ 7936]  Accuracy: 37.4%
+loss: 0.490742  [ 5120/ 7936]  Accuracy: 49.8%
+loss: 0.413555  [ 6400/ 7936]  Accuracy: 62.6%
+loss: 0.438321  [ 7680/ 7936]  Accuracy: 76.0%
+Test Error: 
+ Accuracy: 65.7%, Avg loss: 0.618559 
+
+Epoch 10
+-------------------------------
+loss: 0.501345  [ 1280/ 7936]  Accuracy: 13.0%
+loss: 0.432506  [ 2560/ 7936]  Accuracy: 25.5%
+loss: 0.535629  [ 3840/ 7936]  Accuracy: 37.5%
+loss: 0.488542  [ 5120/ 7936]  Accuracy: 50.0%
+loss: 0.410888  [ 6400/ 7936]  Accuracy: 62.9%
+loss: 0.433479  [ 7680/ 7936]  Accuracy: 76.2%
+Test Error: 
+ Accuracy: 66.0%, Avg loss: 0.617453 
+
+Epoch 11
+-------------------------------
+loss: 0.491214  [ 1280/ 7936]  Accuracy: 13.0%
+loss: 0.429779  [ 2560/ 7936]  Accuracy: 25.5%
+loss: 0.532392  [ 3840/ 7936]  Accuracy: 37.7%
+loss: 0.493669  [ 5120/ 7936]  Accuracy: 50.1%
+loss: 0.412146  [ 6400/ 7936]  Accuracy: 62.9%
+loss: 0.433159  [ 7680/ 7936]  Accuracy: 76.3%
+Test Error: 
+ Accuracy: 66.8%, Avg loss: 0.615467 
+
+Epoch 12
+-------------------------------
+loss: 0.493096  [ 1280/ 7936]  Accuracy: 13.2%
+loss: 0.429222  [ 2560/ 7936]  Accuracy: 25.6%
+loss: 0.531916  [ 3840/ 7936]  Accuracy: 37.8%
+loss: 0.481763  [ 5120/ 7936]  Accuracy: 50.2%
+loss: 0.404504  [ 6400/ 7936]  Accuracy: 63.1%
+loss: 0.440052  [ 7680/ 7936]  Accuracy: 76.4%
+Test Error: 
+ Accuracy: 66.2%, Avg loss: 0.617796 
+
+Epoch 13
+-------------------------------
+loss: 0.488611  [ 1280/ 7936]  Accuracy: 13.0%
+loss: 0.427731  [ 2560/ 7936]  Accuracy: 25.5%
+loss: 0.526624  [ 3840/ 7936]  Accuracy: 37.7%
+loss: 0.486597  [ 5120/ 7936]  Accuracy: 50.2%
+loss: 0.408606  [ 6400/ 7936]  Accuracy: 63.1%
+loss: 0.427905  [ 7680/ 7936]  Accuracy: 76.4%
+Test Error: 
+ Accuracy: 66.4%, Avg loss: 0.614054 
+
+Epoch 14
+-------------------------------
+loss: 0.483018  [ 1280/ 7936]  Accuracy: 13.1%
+loss: 0.420213  [ 2560/ 7936]  Accuracy: 25.6%
+loss: 0.530640  [ 3840/ 7936]  Accuracy: 37.8%
+loss: 0.480651  [ 5120/ 7936]  Accuracy: 50.3%
+loss: 0.406060  [ 6400/ 7936]  Accuracy: 63.2%
+loss: 0.426537  [ 7680/ 7936]  Accuracy: 76.5%
+Test Error: 
+ Accuracy: 67.0%, Avg loss: 0.614430 
+
+Epoch 15
+-------------------------------
+loss: 0.485321  [ 1280/ 7936]  Accuracy: 13.1%
+loss: 0.421784  [ 2560/ 7936]  Accuracy: 25.6%
+loss: 0.522992  [ 3840/ 7936]  Accuracy: 37.9%
+loss: 0.482705  [ 5120/ 7936]  Accuracy: 50.5%
+loss: 0.406453  [ 6400/ 7936]  Accuracy: 63.4%
+loss: 0.433560  [ 7680/ 7936]  Accuracy: 76.7%
+Test Error: 
+ Accuracy: 66.5%, Avg loss: 0.613002 
+
+Epoch 16
+-------------------------------
+loss: 0.489045  [ 1280/ 7936]  Accuracy: 13.1%
+loss: 0.423721  [ 2560/ 7936]  Accuracy: 25.6%
+loss: 0.525048  [ 3840/ 7936]  Accuracy: 37.9%
+loss: 0.485637  [ 5120/ 7936]  Accuracy: 50.5%
+loss: 0.400530  [ 6400/ 7936]  Accuracy: 63.4%
+loss: 0.435269  [ 7680/ 7936]  Accuracy: 76.8%
+Test Error: 
+ Accuracy: 66.7%, Avg loss: 0.612784 
+
+Epoch 17
+-------------------------------
+loss: 0.487487  [ 1280/ 7936]  Accuracy: 13.1%
+loss: 0.421371  [ 2560/ 7936]  Accuracy: 25.6%
+loss: 0.523519  [ 3840/ 7936]  Accuracy: 37.9%
+loss: 0.479647  [ 5120/ 7936]  Accuracy: 50.4%
+loss: 0.405496  [ 6400/ 7936]  Accuracy: 63.2%
+loss: 0.429643  [ 7680/ 7936]  Accuracy: 76.5%
+Test Error: 
+ Accuracy: 66.8%, Avg loss: 0.611537 
+
+Epoch 18
+-------------------------------
+loss: 0.483435  [ 1280/ 7936]  Accuracy: 13.2%
+loss: 0.412113  [ 2560/ 7936]  Accuracy: 25.8%
+loss: 0.523912  [ 3840/ 7936]  Accuracy: 38.0%
+loss: 0.476395  [ 5120/ 7936]  Accuracy: 50.6%
+loss: 0.403490  [ 6400/ 7936]  Accuracy: 63.4%
+loss: 0.422436  [ 7680/ 7936]  Accuracy: 76.8%
+Test Error: 
+ Accuracy: 67.0%, Avg loss: 0.613096 
+
+Epoch 19
+-------------------------------
+loss: 0.486117  [ 1280/ 7936]  Accuracy: 13.3%
+loss: 0.408410  [ 2560/ 7936]  Accuracy: 25.9%
+loss: 0.518469  [ 3840/ 7936]  Accuracy: 38.2%
+loss: 0.480838  [ 5120/ 7936]  Accuracy: 50.8%
+loss: 0.397707  [ 6400/ 7936]  Accuracy: 63.7%
+loss: 0.427046  [ 7680/ 7936]  Accuracy: 77.1%
+Test Error: 
+ Accuracy: 66.7%, Avg loss: 0.613968 
+
+Epoch 20
+-------------------------------
+loss: 0.489391  [ 1280/ 7936]  Accuracy: 13.2%
+loss: 0.407001  [ 2560/ 7936]  Accuracy: 25.9%
+loss: 0.519592  [ 3840/ 7936]  Accuracy: 38.2%
+loss: 0.473368  [ 5120/ 7936]  Accuracy: 50.8%
+loss: 0.389152  [ 6400/ 7936]  Accuracy: 63.7%
+loss: 0.420738  [ 7680/ 7936]  Accuracy: 77.0%
+Test Error: 
+ Accuracy: 67.1%, Avg loss: 0.611986 
+
+Epoch 21
+-------------------------------
+loss: 0.492671  [ 1280/ 7936]  Accuracy: 13.3%
+loss: 0.404625  [ 2560/ 7936]  Accuracy: 25.9%
+loss: 0.511924  [ 3840/ 7936]  Accuracy: 38.3%
+loss: 0.479817  [ 5120/ 7936]  Accuracy: 50.8%
+loss: 0.392765  [ 6400/ 7936]  Accuracy: 63.7%
+loss: 0.422393  [ 7680/ 7936]  Accuracy: 77.0%
+Test Error: 
+ Accuracy: 67.2%, Avg loss: 0.609230 
+
+Epoch 22
+-------------------------------
+loss: 0.489132  [ 1280/ 7936]  Accuracy: 13.3%
+loss: 0.402286  [ 2560/ 7936]  Accuracy: 25.8%
+loss: 0.512114  [ 3840/ 7936]  Accuracy: 38.2%
+loss: 0.481993  [ 5120/ 7936]  Accuracy: 50.8%
+loss: 0.388593  [ 6400/ 7936]  Accuracy: 63.7%
+loss: 0.421832  [ 7680/ 7936]  Accuracy: 77.0%
+Test Error: 
+ Accuracy: 66.8%, Avg loss: 0.605332 
+
+Epoch 23
+-------------------------------
+loss: 0.489713  [ 1280/ 7936]  Accuracy: 13.4%
+loss: 0.395070  [ 2560/ 7936]  Accuracy: 26.1%
+loss: 0.509130  [ 3840/ 7936]  Accuracy: 38.6%
+loss: 0.476061  [ 5120/ 7936]  Accuracy: 51.1%
+loss: 0.386702  [ 6400/ 7936]  Accuracy: 64.0%
+loss: 0.426169  [ 7680/ 7936]  Accuracy: 77.4%
+Test Error: 
+ Accuracy: 66.7%, Avg loss: 0.607848 
+
+Epoch 24
+-------------------------------
+loss: 0.494840  [ 1280/ 7936]  Accuracy: 13.4%
+loss: 0.388472  [ 2560/ 7936]  Accuracy: 26.1%
+loss: 0.498139  [ 3840/ 7936]  Accuracy: 38.5%
+loss: 0.476427  [ 5120/ 7936]  Accuracy: 51.0%
+loss: 0.381005  [ 6400/ 7936]  Accuracy: 64.0%
+loss: 0.419806  [ 7680/ 7936]  Accuracy: 77.3%
+Test Error: 
+ Accuracy: 67.0%, Avg loss: 0.601679 
+
+Epoch 25
+-------------------------------
+loss: 0.493868  [ 1280/ 7936]  Accuracy: 13.5%
+loss: 0.381669  [ 2560/ 7936]  Accuracy: 26.2%
+loss: 0.490279  [ 3840/ 7936]  Accuracy: 38.7%
+loss: 0.476970  [ 5120/ 7936]  Accuracy: 51.2%
+loss: 0.378955  [ 6400/ 7936]  Accuracy: 64.2%
+loss: 0.414201  [ 7680/ 7936]  Accuracy: 77.5%
+Test Error: 
+ Accuracy: 67.0%, Avg loss: 0.596285 
+
+Epoch 26
+-------------------------------
+loss: 0.491600  [ 1280/ 7936]  Accuracy: 13.5%
+loss: 0.381212  [ 2560/ 7936]  Accuracy: 26.2%
+loss: 0.495072  [ 3840/ 7936]  Accuracy: 38.8%
+loss: 0.474913  [ 5120/ 7936]  Accuracy: 51.3%
+loss: 0.366475  [ 6400/ 7936]  Accuracy: 64.4%
+loss: 0.415833  [ 7680/ 7936]  Accuracy: 77.7%
+Test Error: 
+ Accuracy: 67.4%, Avg loss: 0.590661 
+
+Epoch 27
+-------------------------------
+loss: 0.503399  [ 1280/ 7936]  Accuracy: 13.5%
+loss: 0.374877  [ 2560/ 7936]  Accuracy: 26.3%
+loss: 0.482359  [ 3840/ 7936]  Accuracy: 38.8%
+loss: 0.475016  [ 5120/ 7936]  Accuracy: 51.4%
+loss: 0.368723  [ 6400/ 7936]  Accuracy: 64.4%
+loss: 0.423453  [ 7680/ 7936]  Accuracy: 77.8%
+Test Error: 
+ Accuracy: 67.7%, Avg loss: 0.579340 
+
+Epoch 28
+-------------------------------
+loss: 0.495851  [ 1280/ 7936]  Accuracy: 13.6%
+loss: 0.373985  [ 2560/ 7936]  Accuracy: 26.4%
+loss: 0.476929  [ 3840/ 7936]  Accuracy: 39.0%
+loss: 0.472677  [ 5120/ 7936]  Accuracy: 51.6%
+loss: 0.364876  [ 6400/ 7936]  Accuracy: 64.7%
+loss: 0.416889  [ 7680/ 7936]  Accuracy: 78.0%
+Test Error: 
+ Accuracy: 67.5%, Avg loss: 0.579874 
+
+Epoch 29
+-------------------------------
+loss: 0.508530  [ 1280/ 7936]  Accuracy: 13.6%
+loss: 0.369261  [ 2560/ 7936]  Accuracy: 26.3%
+loss: 0.462078  [ 3840/ 7936]  Accuracy: 38.9%
+loss: 0.459773  [ 5120/ 7936]  Accuracy: 51.5%
+loss: 0.365685  [ 6400/ 7936]  Accuracy: 64.5%
+loss: 0.410900  [ 7680/ 7936]  Accuracy: 77.9%
+Test Error: 
+ Accuracy: 67.7%, Avg loss: 0.575169 
+
+Epoch 30
+-------------------------------
+loss: 0.515948  [ 1280/ 7936]  Accuracy: 13.5%
+loss: 0.359445  [ 2560/ 7936]  Accuracy: 26.3%
+loss: 0.459714  [ 3840/ 7936]  Accuracy: 38.9%
+loss: 0.463270  [ 5120/ 7936]  Accuracy: 51.7%
+loss: 0.361124  [ 6400/ 7936]  Accuracy: 64.6%
+loss: 0.409156  [ 7680/ 7936]  Accuracy: 78.1%
+Test Error: 
+ Accuracy: 68.1%, Avg loss: 0.570719 
+
+Epoch 31
+-------------------------------
+loss: 0.496736  [ 1280/ 7936]  Accuracy: 13.7%
+loss: 0.369847  [ 2560/ 7936]  Accuracy: 26.5%
+loss: 0.451522  [ 3840/ 7936]  Accuracy: 39.1%
+loss: 0.466214  [ 5120/ 7936]  Accuracy: 51.9%
+loss: 0.360227  [ 6400/ 7936]  Accuracy: 65.0%
+loss: 0.407824  [ 7680/ 7936]  Accuracy: 78.4%
+Test Error: 
+ Accuracy: 68.0%, Avg loss: 0.569498 
+
+Epoch 32
+-------------------------------
+loss: 0.501037  [ 1280/ 7936]  Accuracy: 13.7%
+loss: 0.360572  [ 2560/ 7936]  Accuracy: 26.6%
+loss: 0.441620  [ 3840/ 7936]  Accuracy: 39.3%
+loss: 0.461337  [ 5120/ 7936]  Accuracy: 52.0%
+loss: 0.353326  [ 6400/ 7936]  Accuracy: 65.1%
+loss: 0.407302  [ 7680/ 7936]  Accuracy: 78.5%
+Test Error: 
+ Accuracy: 67.3%, Avg loss: 0.566679 
+
+Epoch 33
+-------------------------------
+loss: 0.509867  [ 1280/ 7936]  Accuracy: 13.6%
+loss: 0.369229  [ 2560/ 7936]  Accuracy: 26.4%
+loss: 0.451466  [ 3840/ 7936]  Accuracy: 39.2%
+loss: 0.442003  [ 5120/ 7936]  Accuracy: 52.0%
+loss: 0.342596  [ 6400/ 7936]  Accuracy: 65.1%
+loss: 0.406111  [ 7680/ 7936]  Accuracy: 78.5%
+Test Error: 
+ Accuracy: 67.7%, Avg loss: 0.563828 
+
+Epoch 34
+-------------------------------
+loss: 0.523484  [ 1280/ 7936]  Accuracy: 13.7%
+loss: 0.361943  [ 2560/ 7936]  Accuracy: 26.5%
+loss: 0.450074  [ 3840/ 7936]  Accuracy: 39.3%
+loss: 0.456939  [ 5120/ 7936]  Accuracy: 52.2%
+loss: 0.347962  [ 6400/ 7936]  Accuracy: 65.5%
+loss: 0.413848  [ 7680/ 7936]  Accuracy: 78.9%
+Test Error: 
+ Accuracy: 67.6%, Avg loss: 0.570578 
+
+Epoch 35
+-------------------------------
+loss: 0.518264  [ 1280/ 7936]  Accuracy: 13.7%
+loss: 0.365783  [ 2560/ 7936]  Accuracy: 26.5%
+loss: 0.426045  [ 3840/ 7936]  Accuracy: 39.4%
+loss: 0.439722  [ 5120/ 7936]  Accuracy: 52.3%
+loss: 0.341513  [ 6400/ 7936]  Accuracy: 65.5%
+loss: 0.401029  [ 7680/ 7936]  Accuracy: 79.0%
+Test Error: 
+ Accuracy: 67.6%, Avg loss: 0.567870 
+
+Epoch 36
+-------------------------------
+loss: 0.517912  [ 1280/ 7936]  Accuracy: 13.9%
+loss: 0.353772  [ 2560/ 7936]  Accuracy: 26.8%
+loss: 0.422499  [ 3840/ 7936]  Accuracy: 39.6%
+loss: 0.435883  [ 5120/ 7936]  Accuracy: 52.6%
+loss: 0.344687  [ 6400/ 7936]  Accuracy: 65.8%
+loss: 0.411709  [ 7680/ 7936]  Accuracy: 79.3%
+Test Error: 
+ Accuracy: 67.8%, Avg loss: 0.564121 
+
+Epoch 37
+-------------------------------
+loss: 0.513742  [ 1280/ 7936]  Accuracy: 13.9%
+loss: 0.343359  [ 2560/ 7936]  Accuracy: 26.9%
+loss: 0.436105  [ 3840/ 7936]  Accuracy: 40.0%
+loss: 0.435788  [ 5120/ 7936]  Accuracy: 53.1%
+loss: 0.336769  [ 6400/ 7936]  Accuracy: 66.3%
+loss: 0.408846  [ 7680/ 7936]  Accuracy: 79.8%
+Test Error: 
+ Accuracy: 68.1%, Avg loss: 0.562908 
+
+Epoch 38
+-------------------------------
+loss: 0.510006  [ 1280/ 7936]  Accuracy: 13.8%
+loss: 0.345741  [ 2560/ 7936]  Accuracy: 26.8%
+loss: 0.416862  [ 3840/ 7936]  Accuracy: 39.7%
+loss: 0.416189  [ 5120/ 7936]  Accuracy: 52.7%
+loss: 0.326282  [ 6400/ 7936]  Accuracy: 66.0%
+loss: 0.397927  [ 7680/ 7936]  Accuracy: 79.4%
+Test Error: 
+ Accuracy: 67.7%, Avg loss: 0.571386 
+
+Epoch 39
+-------------------------------
+loss: 0.526801  [ 1280/ 7936]  Accuracy: 13.8%
+loss: 0.354690  [ 2560/ 7936]  Accuracy: 26.7%
+loss: 0.400027  [ 3840/ 7936]  Accuracy: 39.9%
+loss: 0.418979  [ 5120/ 7936]  Accuracy: 53.0%
+loss: 0.345972  [ 6400/ 7936]  Accuracy: 66.2%
+loss: 0.384246  [ 7680/ 7936]  Accuracy: 79.7%
+Test Error: 
+ Accuracy: 67.9%, Avg loss: 0.569038 
+
+Epoch 40
+-------------------------------
+loss: 0.483947  [ 1280/ 7936]  Accuracy: 13.9%
+loss: 0.345692  [ 2560/ 7936]  Accuracy: 27.0%
+loss: 0.394212  [ 3840/ 7936]  Accuracy: 40.1%
+loss: 0.421184  [ 5120/ 7936]  Accuracy: 53.2%
+loss: 0.337263  [ 6400/ 7936]  Accuracy: 66.4%
+loss: 0.383500  [ 7680/ 7936]  Accuracy: 80.0%
+Test Error: 
+ Accuracy: 68.1%, Avg loss: 0.563225 
+
+Epoch 41
+-------------------------------
+loss: 0.503482  [ 1280/ 7936]  Accuracy: 13.9%
+loss: 0.320261  [ 2560/ 7936]  Accuracy: 27.0%
+loss: 0.403193  [ 3840/ 7936]  Accuracy: 40.1%
+loss: 0.419814  [ 5120/ 7936]  Accuracy: 53.2%
+loss: 0.349128  [ 6400/ 7936]  Accuracy: 66.4%
+loss: 0.404786  [ 7680/ 7936]  Accuracy: 79.8%
+Test Error: 
+ Accuracy: 68.5%, Avg loss: 0.542559 
+
+Epoch 42
+-------------------------------
+loss: 0.491928  [ 1280/ 7936]  Accuracy: 14.1%
+loss: 0.349578  [ 2560/ 7936]  Accuracy: 27.1%
+loss: 0.407471  [ 3840/ 7936]  Accuracy: 40.4%
+loss: 0.433213  [ 5120/ 7936]  Accuracy: 53.4%
+loss: 0.322670  [ 6400/ 7936]  Accuracy: 66.7%
+loss: 0.385792  [ 7680/ 7936]  Accuracy: 80.3%
+Test Error: 
+ Accuracy: 68.1%, Avg loss: 0.552582 
+
+Epoch 43
+-------------------------------
+loss: 0.517173  [ 1280/ 7936]  Accuracy: 13.9%
+loss: 0.337335  [ 2560/ 7936]  Accuracy: 26.9%
+loss: 0.391626  [ 3840/ 7936]  Accuracy: 40.1%
+loss: 0.406598  [ 5120/ 7936]  Accuracy: 53.2%
+loss: 0.335281  [ 6400/ 7936]  Accuracy: 66.6%
+loss: 0.386625  [ 7680/ 7936]  Accuracy: 80.2%/home/jd/Desktop/xxr/train_VFL/Data/get_data.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['month_apr'][i]=3
+
+Test Error: 
+ Accuracy: 69.2%, Avg loss: 0.546303 
+
+Epoch 44
+-------------------------------
+loss: 0.477540  [ 1280/ 7936]  Accuracy: 14.3%
+loss: 0.355551  [ 2560/ 7936]  Accuracy: 27.3%
+loss: 0.403579  [ 3840/ 7936]  Accuracy: 40.6%
+loss: 0.415502  [ 5120/ 7936]  Accuracy: 53.7%
+loss: 0.317909  [ 6400/ 7936]  Accuracy: 67.0%
+loss: 0.400015  [ 7680/ 7936]  Accuracy: 80.7%
+Test Error: 
+ Accuracy: 69.2%, Avg loss: 0.543178 
+
+Epoch 45
+-------------------------------
+loss: 0.515760  [ 1280/ 7936]  Accuracy: 14.0%
+loss: 0.352929  [ 2560/ 7936]  Accuracy: 27.1%
+loss: 0.369299  [ 3840/ 7936]  Accuracy: 40.3%
+loss: 0.410545  [ 5120/ 7936]  Accuracy: 53.5%
+loss: 0.328515  [ 6400/ 7936]  Accuracy: 66.8%
+loss: 0.373368  [ 7680/ 7936]  Accuracy: 80.5%
+Test Error: 
+ Accuracy: 69.3%, Avg loss: 0.549113 
+
+Epoch 46
+-------------------------------
+loss: 0.489552  [ 1280/ 7936]  Accuracy: 14.1%
+loss: 0.352605  [ 2560/ 7936]  Accuracy: 27.2%
+loss: 0.372733  [ 3840/ 7936]  Accuracy: 40.4%
+loss: 0.406894  [ 5120/ 7936]  Accuracy: 53.7%
+loss: 0.313935  [ 6400/ 7936]  Accuracy: 67.0%
+loss: 0.361008  [ 7680/ 7936]  Accuracy: 80.6%
+Test Error: 
+ Accuracy: 69.3%, Avg loss: 0.529458 
+
+Epoch 47
+-------------------------------
+loss: 0.487949  [ 1280/ 7936]  Accuracy: 14.1%
+loss: 0.339471  [ 2560/ 7936]  Accuracy: 27.1%
+loss: 0.373272  [ 3840/ 7936]  Accuracy: 40.4%
+loss: 0.413034  [ 5120/ 7936]  Accuracy: 53.6%
+loss: 0.311828  [ 6400/ 7936]  Accuracy: 67.0%
+loss: 0.328210  [ 7680/ 7936]  Accuracy: 80.8%
+Test Error: 
+ Accuracy: 69.3%, Avg loss: 0.541525 
+
+Epoch 48
+-------------------------------
+loss: 0.501986  [ 1280/ 7936]  Accuracy: 14.2%
+loss: 0.331677  [ 2560/ 7936]  Accuracy: 27.2%
+loss: 0.388308  [ 3840/ 7936]  Accuracy: 40.5%
+loss: 0.418854  [ 5120/ 7936]  Accuracy: 53.8%
+loss: 0.323325  [ 6400/ 7936]  Accuracy: 67.2%
+loss: 0.381817  [ 7680/ 7936]  Accuracy: 80.8%
+Test Error: 
+ Accuracy: 69.2%, Avg loss: 0.538722 
+
+Epoch 49
+-------------------------------
+loss: 0.521340  [ 1280/ 7936]  Accuracy: 14.1%
+loss: 0.344983  [ 2560/ 7936]  Accuracy: 27.2%
+loss: 0.399964  [ 3840/ 7936]  Accuracy: 40.5%
+loss: 0.398820  [ 5120/ 7936]  Accuracy: 53.7%
+loss: 0.307733  [ 6400/ 7936]  Accuracy: 67.3%
+loss: 0.345113  [ 7680/ 7936]  Accuracy: 80.9%
+Test Error: 
+ Accuracy: 69.5%, Avg loss: 0.528642 
+
+Epoch 50
+-------------------------------
+loss: 0.482271  [ 1280/ 7936]  Accuracy: 14.3%
+loss: 0.329107  [ 2560/ 7936]  Accuracy: 27.5%
+loss: 0.377410  [ 3840/ 7936]  Accuracy: 40.8%
+loss: 0.386396  [ 5120/ 7936]  Accuracy: 54.2%
+loss: 0.300981  [ 6400/ 7936]  Accuracy: 67.6%
+loss: 0.361408  [ 7680/ 7936]  Accuracy: 81.4%
+Test Error: 
+ Accuracy: 69.6%, Avg loss: 0.539719 
+
+Done!

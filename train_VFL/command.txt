@@ -1,0 +1,39 @@
+==================================train---
+
+-----n0
+nohup python train_ML.py         --acti 'leakyrelu_2' --noise_scale 0 >./nohup/train_ML_leakyrelu_2_n0.txt &
+nohup python train_VFL_SPLIT.py  --acti 'leakyrelu_2' --noise_scale 0 >./nohup/train_VFL_leakyrelu_2_n0.txt &
+
+nohup python train_ML.py         --acti 'linear' --noise_scale 0 >./nohup/train_ML_linear_n0.txt &
+nohup python train_VFL_SPLIT.py  --acti 'linear' --noise_scale 0 >./nohup/train_VFL_linear_n0.txt &
+
+--------n0.0001
+nohup python train_ML.py         --acti 'leakyrelu_2' --noise_scale 0.0001 >./nohup/train_ML_leakyrelu_2_n0.0001.txt &
+nohup python train_VFL_SPLIT.py  --acti 'leakyrelu_2' --noise_scale 0.0001 >./nohup/train_VFL_leakyrelu_2_n0.0001.txt &
+
+nohup python train_ML.py         --acti 'linear' --noise_scale 0.0001 >./nohup/train_ML_linear_n0.0001.txt &
+nohup python train_VFL_SPLIT.py  --acti 'linear' --noise_scale 0.0001 >./nohup/train_VFL_linear_n0.0001.txt &
+
+
+
+--------n0.001
+nohup python train_ML.py         --acti 'leakyrelu_2' --noise_scale 0.001 >./nohup/train_ML_leakyrelu_2_n0.001.txt &
+nohup python train_VFL_SPLIT.py  --acti 'leakyrelu_2' --noise_scale 0.001 >./nohup/train_VFL_leakyrelu_2_n0.001.txt &
+
+nohup python train_ML.py         --acti 'linear' --noise_scale 0.001 >./nohup/train_ML_linear_n0.001.txt &
+nohup python train_VFL_SPLIT.py  --acti 'linear' --noise_scale 0.001 >./nohup/train_VFL_linear_n0.001.txt &
+
+
+--------n0.1
+nohup python train_ML.py         --acti 'leakyrelu_2' --noise_scale 0.1 >./nohup/train_ML_leakyrelu_2_n0.1.txt &
+nohup python train_VFL_SPLIT.py  --acti 'leakyrelu_2' --noise_scale 0.1 >./nohup/train_VFL_leakyrelu_2_n0.1.txt &
+
+nohup python train_ML.py         --acti 'linear' --noise_scale 0.1 >./nohup/train_ML_linear_n0.1.txt &
+nohup python train_VFL_SPLIT.py  --acti 'linear' --noise_scale 0.1 >./nohup/train_VFL_linear_n0.1.txt &
+
+
+==================================================================================
+
+
+nohup python train_VFL_SPLIT_copy.py  --acti 'linear' --noise_scale 0.1 >./nohup/train_VFL_linear_n0.1.txt &
+
