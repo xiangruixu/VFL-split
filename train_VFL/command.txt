@@ -35,5 +35,5 @@ nohup python train_VFL_SPLIT.py  --acti 'linear' --noise_scale 0.1 >./nohup/trai
 ==================================================================================
 
 
-nohup python train_VFL_SPLIT_copy.py  --acti 'linear' --noise_scale 0.1 >./nohup/train_VFL_linear_n0.1.txt &
+nohup python train_VFL_SPLIT_copy.py  --acti 'linear' --noise_scale 0.1 >./nohup/train_VFL_linear_copy_n0.1.txt &
 
