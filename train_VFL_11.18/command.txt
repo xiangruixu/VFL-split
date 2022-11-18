@@ -1,5 +1,5 @@
 ============================================================================train---
---mode '1': output_new.backward()       bottom 参数的梯度为0,  主任务降---------所以代码是错的
+--mode '1': output_new.backward()       bottom 参数的梯度为0,  主任务降--------- 赋了新变量之后，backward() 找不回去了，代码错啦
 --mode '2': (output+noise).backward()   bottom 正常更新,       但主任务几乎不降
 
 
